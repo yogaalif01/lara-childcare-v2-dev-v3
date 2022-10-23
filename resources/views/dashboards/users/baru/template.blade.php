@@ -83,7 +83,7 @@ https://templatemo.com/tm-562-space-dynamic
     <div class="container">
       <div class="row">
         <div class="col-lg-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.25s">
-          <p>© Copyright 2022 Devina Nadya. 
+          <p>© Copyright 2022 Yoga Alif Ferdianto. 
 <!--           
           <br>Design: <a rel="nofollow" href="https://templatemo.com">TemplateMo</a></p> -->
         </div>
